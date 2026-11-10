@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://phpwsoftpro.github.io/sitemap.xml
